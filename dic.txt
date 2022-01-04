@@ -1,0 +1,60 @@
+inventory,N/A,hàng tồn kho,2021-08-16
+barrel,N/A,thùng,2021-08-16
+adage,N/A,câu ngạn ngữ,2021-08-16
+successor,N/A,người kế vị,2021-09-03
+predecessor,N/A,người tiền nhiệm,2021-09-03
+pairwise,N/A,có cặp,2021-09-06
+flavor,N/A,hương vị,2021-09-06
+ubiquitous,N/A,phổ cập,2021-09-06
+sparse,N/A,thưa thớt,2021-09-06
+asymptotic,N/A,tiệm cận,2021-09-06
+linear,N/A,tuyến tính,2021-09-06
+quadratic,N/A,bậc hai,2021-09-06
+partially,N/A,một phần,2021-09-06
+fuse,N/A,cầu chì,2021-09-06
+trivially,N/A,tầm thường,2021-09-06
+encode,N/A,mã hóa,2021-09-06
+segment,N/A,bộ phận,2021-09-06
+scenario,N/A,kịch bản,2021-09-06
+sentiment,N/A,tình cảm,2021-09-06
+tedious,N/A,tẻ nhạt,2021-09-06
+primarily,N/A,chủ yếu,2021-09-07
+adjacency,N/A,gần kề,2021-09-07
+dominant,N/A,có ưu thế,2021-09-07
+incident,N/A,sự cố,2021-09-07
+traverse,N/A,đi qua,2021-09-13
+sequentially,N/A,tuần tự,2021-09-13
+abovemention,N/A,sự trên,2021-09-15
+abbreviate,N/A,viết tắt,2021-09-19
+itinerary,N/A,hành trình,2021-09-20
+lexical,N/A,từ vựng,2021-09-20
+delve,N/A,đào sâu,2021-09-22
+delve into,N/A,đi sâu vào,2021-09-22
+strictly,N/A,nghiêm ngặt,2021-09-25
+intutive,N/A,trực giác,2021-10-04
+animation,N/A,hoạt hình,2021-10-05
+consecutive,N/A,liên tiếp,2021-10-06
+insightful,N/A,sâu sắc,2021-10-19
+cupboard,N/A,tủ đựng chén,2021-11-09
+assemble,N/A,tập hợp,2021-11-18
+Deduction,N/A,Khấu trừ,2021-11-18
+deduce,N/A,suy luận,2021-11-19
+paradigm,N/A,mô hình,2021-11-20
+manifest,N/A,rõ ràng,2021-11-21
+elaborate,N/A,kỹ lưỡng,2021-11-21
+apparent,N/A,rõ ràng,2021-11-21
+relay,N/A,tiếp sức,2021-12-01
+baton,N/A,dùi cui,2021-12-01
+systematically,N/A,một cách có hệ thống,2021-12-03
+spot,N/A,điểm,2021-12-03
+rob,N/A,cướp,2021-12-04
+applicable,N/A,áp dụng,2021-12-04
+disguise,N/A,cải trang,2021-12-04
+recurrence,N/A,sự tái xuất,2021-12-04
+universe,N/A,vũ trụ,2021-12-04
+derive,N/A,lấy được,2021-12-04
+lineup,N/A,xếp hàng,2021-12-04
+stuck,N/A,mắc kẹt,2021-12-04
+denomination,N/A,mệnh giá,2021-12-28
+viable,N/A,khả thi,2022-01-02
+giveaway,N/A,phát phần thưởng,2022-01-02

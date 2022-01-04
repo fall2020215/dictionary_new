@@ -1,0 +1,16 @@
+dissatisfied,N/A,không hài lòng,2021-12-28
+protest,N/A,phản đối,2021-12-28
+Greece,N/A,Hy Lạp,2021-12-28
+troop,N/A,đoàn quân,2021-12-28
+withdrew,N/A,rút lui,2021-12-28
+landlord,N/A,chủ nhà,2021-12-28
+dormitory,N/A,ký túc xá,2021-12-28
+apartment building,N/A,chung cư,2021-12-28
+goat,N/A,con dê,2021-12-28
+tsunami,N/A,sóng thần,2021-12-28
+avalanche,N/A,tuyết lở,2021-12-28
+ski resort,N/A,Khu nghỉ dưỡng trượt tuyết,2021-12-28
+earthquake,N/A,động đất,2021-12-28
+shake,N/A,rung chuyển,2021-12-28
+sandstorm,N/A,bão cát,2021-12-28
+touch down,N/A,chạm xuống,2021-12-28

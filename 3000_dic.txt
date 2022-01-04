@@ -1,0 +1,22 @@
+exempt,N/A,miễn,2021-12-07
+embarrassed,N/A,lúng túng,2021-12-15
+emerge,N/A,hiện ra,2021-12-15
+emotion,N/A,cảm xúc,2021-12-15
+emphasis,N/A,nhấn mạnh,2021-12-15
+emphasize,N/A,nhấn mạnh,2021-12-15
+empire,N/A,đế chế,2021-12-15
+encounter,N/A,bắt gặp,2021-12-15
+encourage,N/A,khích lệ,2021-12-15
+enemy,N/A,kẻ thù,2021-12-15
+enhence,N/A,nâng cao,2021-12-15
+enormous,N/A,lớn lao,2021-12-15
+enquiry,N/A,cuộc điều tra,2021-12-15
+ensure,N/A,chắc chắn,2021-12-15
+enterprise,N/A,xí nghiệp,2021-12-15
+enthusiasm,N/A,hăng hái,2021-12-15
+enthusiastic,N/A,nhiệt tâm,2021-12-16
+entire,N/A,toàn bộ,2021-12-16
+entitle,N/A,cho phép,2021-12-16
+entrance,N/A,cổng vào,2021-12-16
+equivalent,N/A,tương đương,2021-12-16
+era,N/A,nó là,2021-12-16
